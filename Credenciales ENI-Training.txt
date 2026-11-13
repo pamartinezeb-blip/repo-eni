@@ -1,0 +1,12 @@
+superusuario:
+-username: admin
+-password: admin123
+
+Administrador:
+-username: usuario1
+-password: user1001
+
+Instructor:
+-username: usuario2
+-password: user2002
+
